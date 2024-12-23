@@ -1,0 +1,55 @@
+{
+  "id": "ea037af2-b333-46e9-b9b7-924489c240c4", 
+  "name": "I2_Report",
+  "publisher": "I2Enterprise publisher",
+  "version": "1.0.20230524.0",
+
+  "brief": "Application (I2)",
+  "description": "http://www.itwo.co.th/description",
+  "privacyStatement": "http://www.itwo.co.th/privacyStatement",
+  "EULA": "http://www.itwo.co.th/EULA",
+  "help": "http://www.itwo.co.th/help",
+  "url": "http://www.itwo.co.th/url",
+  "contextSensitiveHelpUrl": "http://www.itwo.co.th/url",
+  "applicationInsightsConnectionString": "http://www.itwo.co.th/url",
+  "logo": "logo/240.jpg",
+  "dependencies": [
+    {
+      "id": "ee0f1ca1-df48-4771-9d10-f4df7c17ac7f",
+      "publisher": "QuickERP",
+      "name": "QuickERP_THLOCAL",
+      "version": "1.0.0.0"
+      }, 
+      {
+        "id": "001de7e0-9f53-41a5-b94a-7ae9dc8c5f4a",
+        "publisher": "QuickERP",
+        "name": "iTwo_TableCustBaseApplication",
+        "version": "1.0.0.0"
+        },
+        
+        {
+          "id": "fabf34a3-2fa3-4446-9398-ff925180f426",
+          "publisher": "QuickERP",
+          "name": "iTwo_General",
+          "version": "1.0.0.0"
+          }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 57100,
+      "to": 57500
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "TranslationFile", "GenerateCaptions","NoImplicitWith"
+  ]
+}

@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="I2_Report">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 1009167900 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.I2_Accrued Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Accrued Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1009167900 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Accrued Cost - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1009167900 - Control 2253487985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>As of date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Accrued Cost - Control Asofdate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1009167900 - Control 2574880605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CATEGORY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Accrued Cost - Control CATcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1009167900 - Control 845401037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Accrued Cost - Control EndDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1009167900 - Control 1893335216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>REVENUE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Accrued Cost - Control REVcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1009167900 - Control 3605153064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Accrued Cost - Control StartDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4223198055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I2_Cost_Income_ANCHALEE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_ANCHALEE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4223198055 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_ANCHALEE - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4223198055 - Control 2253487985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>As of date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_ANCHALEE - Control Asofdate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4223198055 - Control 2574880605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CATEGORY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_ANCHALEE - Control CATcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4223198055 - Control 845401037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_ANCHALEE - Control EndDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4223198055 - Control 1893335216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>REVENUE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_ANCHALEE - Control REVcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4223198055 - Control 3605153064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_ANCHALEE - Control StartDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1711765570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I2_Cost_Income_SIRIPORN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_SIRIPORN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1711765570 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_SIRIPORN - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1711765570 - Control 2253487985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>As of date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_SIRIPORN - Control Asofdate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1711765570 - Control 2574880605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CATEGORY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_SIRIPORN - Control CATcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1711765570 - Control 845401037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_SIRIPORN - Control EndDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1711765570 - Control 1893335216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>REVENUE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_SIRIPORN - Control REVcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1711765570 - Control 3605153064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Cost_Income_SIRIPORN - Control StartDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 61625412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I2_GL Journal Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_GLJournalReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3489751394 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Voucher Doc - I2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Payment Voucher Doc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3489751394 - NamedType 1517147399" size-unit="char" translate="yes" xml:space="preserve">
+          <source>รายละเอียดลูกค้า/Customer Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Payment Voucher Doc - NamedType TextCust1</note>
+        </trans-unit>
+        <trans-unit id="Report 3489751394 - NamedType 3430237250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>รหัสลูกค้า/No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Payment Voucher Doc - NamedType TextCust2</note>
+        </trans-unit>
+        <trans-unit id="Report 3489751394 - NamedType 256434697" size-unit="char" translate="yes" xml:space="preserve">
+          <source>รายละเอียด/Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Payment Voucher Doc - NamedType TextOth1</note>
+        </trans-unit>
+        <trans-unit id="Report 3489751394 - NamedType 4070535487" size-unit="char" translate="yes" xml:space="preserve">
+          <source>รายละเอียดเจ้าหนี้/Vendor Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Payment Voucher Doc - NamedType TextVend1</note>
+        </trans-unit>
+        <trans-unit id="Report 3489751394 - NamedType 1688658042" size-unit="char" translate="yes" xml:space="preserve">
+          <source>รหัสเจ้าหนี้/No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Payment Voucher Doc - NamedType TextVend2</note>
+        </trans-unit>
+        <trans-unit id="Report 3518599693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I2_Trial Sum Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Trial Sum Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3518599693 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>year closing,close accounting period,close fiscal year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Trial Sum Balance - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Report 3518599693 - NamedType 1653612302" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Trial Sum Balance - NamedType BalanceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3518599693 - NamedType 1987762555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Trial Sum Balance - NamedType CurrReport_PAGENOCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3518599693 - NamedType 1336619019" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Trial Sum Balance - NamedType G_L_Account___Balance_at_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3518599693 - NamedType 1802191049" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Trial Sum Balance - NamedType G_L_Account___Balance_at_Date__Control24CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3518599693 - NamedType 961667924" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Trial Sum Balance - NamedType G_L_Account___Net_Change_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3518599693 - NamedType 2700747540" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Trial Sum Balance - NamedType G_L_Account___Net_Change__Control22CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3518599693 - NamedType 998290390" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Change</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Trial Sum Balance - NamedType Net_ChangeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3518599693 - NamedType 94175705" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Trial Sum Balance - NamedType PADSTR_____G_L_Account__Indentation___2___G_L_Account__NameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3518599693 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Trial Sum Balance - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 3518599693 - NamedType 3018268105" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trial Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Trial Sum Balance - NamedType Trial_BalanceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I2_Vendor - Balance to Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - NamedType 892770887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All amounts are in LCY.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - NamedType AllamountsareinLCYCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - NamedType 1564621511" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - NamedType OriginalAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - NamedType 2308951394" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - NamedType PageNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - NamedType 2857381899" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - NamedType PostingDateCptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance on %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - NamedType 2302278106" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I2_Vendor - Balance to Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - NamedType VendorBalancetoDateCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - Control 79950944 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that you want to print each vendor balance on a separate page, if you have chosen two or more vendors to be included in the report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - Control PrintOnePrPage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - Control 79950944 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Page per Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - Control PrintOnePrPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - Control 1196418791 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the report includes entries that have been applied and later unapplied using the Unapply action. By default, the report does not show such entries.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - Control PrintUnappliedEntries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - Control 1196418791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Include Unapplied Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - Control PrintUnappliedEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - Control 387054463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if amounts in the report are displayed in LCY. If you leave the check box blank, amounts are shown in foreign currencies.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - Control ShowAmountsInLCY - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - Control 387054463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Amounts in LCY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - Control ShowAmountsInLCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - Control 1580087729 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the report must include vendor ledger entries with a balance of 0. By default, the report only includes vendor ledger entries with a positive or negative balance.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - Control ShowEntriesWithZeroBalance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - Control 1580087729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Entries with Zero Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - Control ShowEntriesWithZeroBalance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - Control 376036809 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to print the vendor''s document numbers, such as the invoice number, for all transactions. Clear this check box to print only internal document numbers.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - Control UseExternalDocNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 63121696 - Control 376036809 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report I2_Vendor - Balance to Date - Control UseExternalDocNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1257218450 - Action 389868767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1638686336">
+          <source>Journal Voucher - I2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_Cash Receipt Journal_EXT - Action I2_JournalVoucher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2820478191 - Action 389868767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2583272393">
+          <source>Journal Voucher - I2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_GeneralJournal_EXT - Action I2_JournalVoucher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3879701329 - Control 240755988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2273701615">
+          <source>Specifies the value of the MA End Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_Job List_EXT - Control I2_Contratprice - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3879701329 - Control 240755988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2273701615">
+          <source>Billable Total Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_Job List_EXT - Control I2_Contratprice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3879701329 - Control 300977361 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2273701615">
+          <source>Specifies the value of the Project End Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_Job List_EXT - Control I2_EndDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3879701329 - Control 3077570261 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2273701615">
+          <source>Specifies the value of the MA End Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_Job List_EXT - Control I2_MAEndDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3879701329 - Control 445375040 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2273701615">
+          <source>Specifies the value of the MA Start Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_Job List_EXT - Control I2_MAStartDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3879701329 - Control 3810042884 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2273701615">
+          <source>Specifies the value of the Project Start Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_Job List_EXT - Control I2_StartDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2850432122 - Control 300977361 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4010542053">
+          <source>Specifies the value of the Project End Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_JobcardEXT - Control I2_EndDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2850432122 - Control 3077570261 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4010542053">
+          <source>Specifies the value of the MA End Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_JobcardEXT - Control I2_MAEndDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2850432122 - Control 445375040 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4010542053">
+          <source>Specifies the value of the MA Start Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_JobcardEXT - Control I2_MAStartDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2850432122 - Control 3810042884 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4010542053">
+          <source>Specifies the value of the Project Start Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_JobcardEXT - Control I2_StartDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2643323268 - Action 389868767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3196174509">
+          <source>Journal Voucher - I2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension I2_PaymentJnl_EXT - Action I2_JournalVoucher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2222332503 - Field 1032795112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2818324089">
+          <source>Sales Person</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension I2_Job_EXT - Field I2_DimSales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2222332503 - Field 300977361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2818324089">
+          <source>Project End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension I2_Job_EXT - Field I2_EndDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2222332503 - Field 3077570261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2818324089">
+          <source>MA End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension I2_Job_EXT - Field I2_MAEndDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2222332503 - Field 445375040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2818324089">
+          <source>MA Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension I2_Job_EXT - Field I2_MAStartDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2222332503 - Field 3810042884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2818324089">
+          <source>Project Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension I2_Job_EXT - Field I2_StartDate - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

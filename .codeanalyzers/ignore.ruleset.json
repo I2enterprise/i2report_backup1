@@ -1,0 +1,16 @@
+{
+    "name": "Ignore Rules Set",
+    "description": "These rules must be respected by all the AL code written within the company.",
+    "rules": [
+    {
+        "id": "AS0084",
+        "action": "None",
+        "justification": "Ignore ID Range Error"
+    },    
+    {
+        "id": "AS0094",
+        "action": "None",
+        "justification": "Ignore Permission Set Warning"
+    }
+    ]
+}
